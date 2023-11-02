@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": 
+  {
+    "connectionReservationVoiture": "Server=.;Database=DBMunicipalite;Trusted_Connection=True;MultipleActiveResultSets=true"
+  }
+}
